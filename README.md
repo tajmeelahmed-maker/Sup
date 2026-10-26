@@ -28,6 +28,10 @@ As part of the **Data Technician Bootcamp**, I completed a series of practical E
   - Customer demographics
   - Sales performance
 - Analysed trends and identified key business insights from summarised datasets. 【1-e10226】
+<img width="606" height="305" alt="image" src="https://github.com/user-attachments/assets/c7b0740a-aaec-4941-acf7-ce266d19ed05" />
+<img width="334" height="256" alt="image" src="https://github.com/user-attachments/assets/f86ec19c-a65a-4081-911b-ee1291bc016f" />
+
+<img width="598" height="285" alt="image" src="https://github.com/user-attachments/assets/01e51d05-c3c1-4861-bd24-7b92204f44c6" />
 
 ### Data Visualisation
 - Built charts and visual reports to communicate findings effectively.
